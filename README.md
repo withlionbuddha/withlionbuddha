@@ -1,5 +1,9 @@
 ## 👋 Hey, Greetings 😄
 
+<br> 
+@books[2024 노벨경제학상] AI를 공부하는 Developer가 눈여겨봐야될 책.
+<img src="https://github.com/withlionbuddha/notes/blob/e65623f73262e4c968195b286aadb924abc34cf2/books/i9791193166147.jpg" with="300">
+
 <br>
 @[안녕인사글 남기는곳](https://withlionbuddha.github.io/withlionbuddha/) <br>
 @[MATH FOR AI](https://www.3blue1brown.com) <br>
