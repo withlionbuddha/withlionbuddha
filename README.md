@@ -1,4 +1,4 @@
-## 👋 Hey, Greetings 😄
+## 👋 Greetings 😄
 
 @Head Notification <br>
   🩷 만나서 반가워요. 
