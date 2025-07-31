@@ -15,7 +15,7 @@
    required service agreement. Despite requests for correction lasting  
    over three months, they did not remedy this breach. Any entity found  
    to have similarly violated contract‑issuance requirements is  
-   disqualified from exercising Reserch or COMMERCAIL Use rights under this license. 
+   disqualified from exercising Research or COMMERCAIL Use rights under this license. 
 
 <br>
 <br>
