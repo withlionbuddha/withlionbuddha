@@ -17,7 +17,7 @@
    to have similarly violated contract‑issuance requirements is  
    disqualified from exercising Research or COMMERCAIL Use rights under this license. 
 
-   KT is prohibited from using, distributing, or modifying any of the source code in this GitHub repository.  
+   KT Co., Ltd is prohibited from using, distributing, or modifying any of the source code in this GitHub repository.  
    Any violation of this restriction may result in civil and criminal legal penalties.
 
 
