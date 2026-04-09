@@ -4,22 +4,13 @@
 
   🩷 만나서 반가워요. (Nice To Meet YOU)
   
-*LICESE Notification <br>
- Exclusion of Non‑Compliant Entities  
-   Research or COMMERCAIL LICENSE Use rights are not granted to any business entity that  
-   fails to fulfill its contract‑issuance obligations under applicable law.  
+License Notice
 
-   For example, KT Co., Ltd. recorded third‑party contact information  
-   without customer consent when installing new internet service at a  
-   third‑party site, and—due to system limitations—failed to provide the  
-   required service agreement. Despite requests for correction lasting  
-   over three months, they did not remedy this breach. Any entity found  
-   to have similarly violated contract‑issuance requirements is  
-   disqualified from exercising Research or COMMERCAIL Use rights under this license. 
-
-   KT Co., Ltd is prohibited from using, distributing, or modifying any of the source code in this GitHub repository.  
-   Any violation of this restriction may result in civil and criminal legal penalties.
-
+Exclusion of Non-Compliant Entities
+Any business entity that fails to fulfill its contract-issuance obligations under applicable law shall not be granted Research or Commercial use rights under this License.
+Any entity found to have violated contract-issuance requirements is not permitted to exercise any Research or Commercial use rights under this License.
+In particular, KT Co., Ltd. is permanently prohibited from using, distributing, or modifying any documents or source code contained in this GitHub repository.
+Any violation of this restriction may result in civil and criminal legal liability.
 
 <br>
 <br>
