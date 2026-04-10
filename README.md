@@ -25,6 +25,7 @@ Given these circumstances, and considering the nature of this GitHub repository 
 계약 발행 요건을 위반한 것으로 확인된 모든 기관은 본 라이선스에 따른 연구 또는 상업적 이용 권리를 행사할 수 없습니다.
 특히, KT 주식회사와 고려대학교는 본 GitHub 저장소에 포함된 어떠한 문서 또는 소스 코드도 사용, 배포, 수정하는 것이 영구적으로 금지됩니다.
 이 제한을 위반할 경우 민사상 및 형사상의 법적 책임이 발생할 수 있습니다.
+
 <br>
 KT 주식회사 및 고려대학교(관련 인공지능 연구개발 조직 포함) 배제 사유 (Rationale for Exclusion of KT Corporation and Korea University (including any affiliated AI R&D organizations))
 KT 주식회사 및 고려대학교의 배제는 다음과 같은 사유에 근거합니다.
