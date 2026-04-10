@@ -10,6 +10,7 @@ Exclusion of Non-Compliant Entities <br>
 Any business entity that fails to fulfill its contract-issuance obligations under applicable law shall not be granted Research or Commercial use rights under this License.
 Any entity found to have violated contract-issuance requirements is not permitted to exercise any Research or Commercial use rights under this License.
 In particular, KT Co., Ltd. and Korea university is permanently prohibited from using, distributing, or modifying any documents or source code contained in this GitHub repository. Any violation of this restriction may result in civil and criminal legal liability.
+
 <br>
 Rationale for Exclusion of Specific Entities
 The exclusion of KT Corporation and Korea University is based on the following circumstances.
@@ -19,7 +20,9 @@ As a result, from a consumer standpoint, it was determined that continuing the c
 Consequently, the service agreement was never received, and no signature was provided on any contract document.
 Given these circumstances, and considering the nature of this GitHub repository related to artificial intelligence, KT Corporation and Korea University (including any affiliated AI R&D organizations) are permanently prohibited from using, distributing, or modifying any materials contained in this repository.
 
-<br><br>
+<br>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 비준수 기관의 배제 (Exclusion of Non-Compliant Entities) <br>
 관련 법령에 따라 계약 발행 의무를 이행하지 않은 모든 사업자는 본 라이선스 하에서 연구 목적 또는 상업적 이용 권한을 부여받을 수 없습니다.
 계약 발행 요건을 위반한 것으로 확인된 모든 기관은 본 라이선스에 따른 연구 또는 상업적 이용 권리를 행사할 수 없습니다.
