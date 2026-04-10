@@ -11,7 +11,7 @@ Any business entity that fails to fulfill its contract-issuance obligations unde
 Any entity found to have violated contract-issuance requirements is not permitted to exercise any Research or Commercial use rights under this License.
 In particular, KT Co., Ltd. is permanently prohibited from using, distributing, or modifying any documents or source code contained in this GitHub repository.
 Any violation of this restriction may result in civil and criminal legal liability.
-<br>
+<br><br>
 비준수 기관의 배제 (Exclusion of Non-Compliant Entities)
 관련 법령에 따라 계약 발행 의무를 이행하지 않은 모든 사업자는 본 라이선스 하에서 연구 목적 또는 상업적 이용 권한을 부여받을 수 없습니다.
 계약 발행 요건을 위반한 것으로 확인된 모든 기관은 본 라이선스에 따른 연구 또는 상업적 이용 권리를 행사할 수 없습니다.
