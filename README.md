@@ -12,7 +12,7 @@ Any entity found to have violated contract-issuance requirements is not permitte
 In particular, KT Co., Ltd. and Korea university is permanently prohibited from using, distributing, or modifying any documents or source code contained in this GitHub repository. Any violation of this restriction may result in civil and criminal legal liability.
 
 <br>
-Rationale for Exclusion of Specific Entities
+Rationale for Exclusion of Specific Entities : <br>
 The exclusion of KT Corporation and Korea University is based on the following circumstances.
 A new internet service contract was initiated with KT. During this process, a request was made to receive the service agreement issued under the business domain withlion.company. However, due to repeated email delivery failures on KT’s side, the agreement could not be received.
 Efforts were made to resolve the issue by requesting that the responsible technical contact or mail server administrator be changed. These requests were not addressed, and the email delivery failure persisted for approximately three months.
@@ -30,7 +30,7 @@ Given these circumstances, and considering the nature of this GitHub repository 
 이 제한을 위반할 경우 민사상 및 형사상의 법적 책임이 발생할 수 있습니다.
 
 <br>
-KT 주식회사 및 고려대학교(관련 인공지능 연구개발 조직 포함) 배제 사유 (Rationale for Exclusion of KT Corporation and Korea University (including any affiliated AI R&D organizations))
+KT 주식회사 및 고려대학교(관련 인공지능 연구개발 조직 포함) 배제 사유 (Rationale for Exclusion of KT Corporation and Korea University (including any affiliated AI R&D organizations)) : <br>
 KT 주식회사 및 고려대학교의 배제는 다음과 같은 사유에 근거합니다.
 KT와 신규 인터넷 서비스 계약을 진행하는 과정에서, 사업자 도메인 withlion.company 명의로 이용계약서를 발급받고자 요청하였습니다. 그러나 KT 측의 반복적인 이메일 발송 실패로 인해 해당 계약서를 수령할 수 없었습니다. 문제 해결을 위해 담당 기술자 또는 메일 서버 담당자의 변경을 요청하였으나, 이러한 요청은 반영되지 않았으며, 이메일 발송 실패는 약 3개월간 지속되었습니다.
 그 결과, 소비자 입장에서 해당 계약 관계를 유지하는 것이 불가능하다고 판단하여 3년 약정 계약을 해지하였습니다.
