@@ -4,7 +4,8 @@
 
   🩷 만나서 반가워요. (Nice To Meet YOU)
 
-  📝 **Technical Blog** · [Site](https://withlionbuddha.github.io/) <br>
+  [![Technical Blog](https://img.shields.io/badge/Technical%20Blog-Site-24292f?style=for-the-badge&logo=githubpages&logoColor=white)](https://withlionbuddha.github.io/)
+  [![Technical Documents](https://img.shields.io/badge/Technical%20Documents-Repository-0969da?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/withlionbuddha/technical-documents)
     
 직접 만나서 이 문제에 대해 이야기하고 싶습니다.
 
