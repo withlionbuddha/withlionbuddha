@@ -4,7 +4,7 @@
 
   🩷 만나서 반가워요. (Nice To Meet YOU)
 
-  📝 [Technical Blog](https://withlionbuddha.github.io/) <br>
+  📝 **Technical Blog** · [Site](https://withlionbuddha.github.io/) <br>
     
 직접 만나서 이 문제에 대해 이야기하고 싶습니다.
 
