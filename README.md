@@ -4,8 +4,8 @@
 
   🩷 만나서 반가워요. (Nice To Meet YOU)
 
-  [![Blog](https://img.shields.io/badge/Blog-24292f?style=flat-square&logo=githubpages&logoColor=white)](https://withlionbuddha.github.io/)
-  [![Docs](https://img.shields.io/badge/Docs-0969da?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/withlionbuddha/technical-documents)
+  [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-24292f?style=flat-square&logo=githubpages&logoColor=white)](https://withlionbuddha.github.io/)
+  [![Tech Docs](https://img.shields.io/badge/Tech%20Docs-0969da?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/withlionbuddha/technical-documents)
   [![Math for AI](https://img.shields.io/badge/Math%20for%20AI-000000?style=flat-square&logo=3blue1brown&logoColor=white)](https://www.3blue1brown.com)
     
 직접 만나서 이 문제에 대해 이야기하고 싶습니다.
