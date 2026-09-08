@@ -4,8 +4,9 @@
 
   🩷 만나서 반가워요. (Nice To Meet YOU)
 
-  [![Technical Blog](https://img.shields.io/badge/Technical%20Blog-Site-24292f?style=for-the-badge&logo=githubpages&logoColor=white)](https://withlionbuddha.github.io/)
-  [![Technical Documents](https://img.shields.io/badge/Technical%20Documents-Repository-0969da?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/withlionbuddha/technical-documents)
+  [![Blog](https://img.shields.io/badge/Blog-24292f?style=flat-square&logo=githubpages&logoColor=white)](https://withlionbuddha.github.io/)
+  [![Docs](https://img.shields.io/badge/Docs-0969da?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/withlionbuddha/technical-documents)
+  [![Math for AI](https://img.shields.io/badge/Math%20for%20AI-000000?style=flat-square&logo=3blue1brown&logoColor=white)](https://www.3blue1brown.com)
     
 직접 만나서 이 문제에 대해 이야기하고 싶습니다.
 
@@ -30,9 +31,4 @@
 | 🇷🇺 러시아   | Русский                       | **Я хотел(а) бы встретиться лично и обсудить это.**                                                                                                                                                                |
 | 🇺🇦 우크라이나 | Українська                    | **Я хотів(ла) б зустрітися особисто й обговорити це.**                                                                                                                                                             |
 | 🇩🇪 독일    | Deutsch                       | **Ich möchte Sie persönlich treffen, um darüber zu sprechen.**                                                                                                                                                     |
-
-  
-<br>
-@[안녕인사글 남기는곳](https://withlionbuddha.github.io/withlionbuddha/) <br>
-@[MATH FOR AI](https://www.3blue1brown.com) <br>
 
