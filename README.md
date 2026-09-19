@@ -2,10 +2,9 @@
 
 @Head Notification <br>
 
-  🩷 만나서 반가워요. (Nice To Meet YOU)
-  🩷 [![License Updated 2026](https://img.shields.io/badge/License-Updated%202026-0969da?style=flat-square)](./LICENSE/RESEARCH%20LICENSE)
+  🩷 만나서 반가워요. (Nice To Meet YOU) 
 
-
+  [![License Updated 2026](https://img.shields.io/badge/License-Updated%202026-0969da?style=flat-square)](./LICENSE/RESEARCH%20LICENSE)
   [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-24292f?style=flat-square&logo=githubpages&logoColor=white)](https://withlionbuddha.github.io/)
   [![Tech Docs](https://img.shields.io/badge/Tech%20Docs-0969da?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/withlionbuddha/technical-documents)
   [![Math for AI](https://img.shields.io/badge/Math%20for%20AI-000000?style=flat-square&logo=3blue1brown&logoColor=white)](https://www.3blue1brown.com)
